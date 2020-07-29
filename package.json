@@ -1,0 +1,8 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "Learn Gulp by building an awesome development environment",
+  "main": "index.js",
+  "author": "m9dnts8608 <leah8608@gmail.com>",
+  "license": "MIT"
+}
